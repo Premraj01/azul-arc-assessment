@@ -1,0 +1,15 @@
+.mt-10 {
+  margin-top: 10px;
+}
+
+.danger {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+.btn-cursor {
+  cursor: pointer;
+}

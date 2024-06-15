@@ -1,0 +1,58 @@
+export const employees = [
+  {
+    name: 'Premraj Tripute',
+    age: 26,
+    email: 'premrajtripute777@gmail.com',
+    birth_date: '12/04/1997',
+    address: {
+      line1: 'test line1',
+      line2: 'test line2',
+      city: 'satara',
+      postal_code: '415002',
+      country: 'India',
+    },
+    photo: '.jpg',
+  },
+  {
+    name: 'Vishal Chavan',
+    age: 26,
+    email: 'vishal@gmail.com',
+    birth_date: '12/04/1997',
+    address: {
+      line1: 'test line1',
+      line2: 'test line2',
+      city: 'satara',
+      postal_code: '415002',
+      country: 'India',
+    },
+    photo: '.jpg',
+  },
+  {
+    name: 'Chetan Shinde',
+    age: 26,
+    email: 'chetan@gmail.com',
+    birth_date: '12/04/1997',
+    address: {
+      line1: 'test line1',
+      line2: 'test line2',
+      city: 'pune',
+      postal_code: '415002',
+      country: 'India',
+    },
+    photo: '.jpg',
+  },
+  {
+    name: 'Omkar Kadam',
+    age: 26,
+    email: 'omkarkadam@gmail.com',
+    birth_date: '12/04/1997',
+    address: {
+      line1: 'test line1',
+      line2: 'test line2',
+      city: 'satara',
+      postal_code: '415002',
+      country: 'India',
+    },
+    photo: '.jpg',
+  },
+];
